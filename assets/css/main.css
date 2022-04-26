@@ -13765,7 +13765,17 @@ textarea {
 }
 
 .galeria{
-  margin-top: -710px;
+  display: ;
+  margin-top: -770px;
 }
 
-/*===========================Mobile====================*/
+/*====================Mobile====================*/
+
+@media screen and (min-width:1024px) {
+ .galeria{
+   margin-top: -400px ;
+ }
+
+
+
+  }
