@@ -105,7 +105,7 @@
 
 .overview-con .slider-section .slick-slider .slick-list {
   left: 50% !important;
-  margin-top: .917969rem;
+  margin-top: .4rem;
   overflow: visible !important;
   position: absolute;
   transform: translateX(-50%) !important;
@@ -13764,14 +13764,3 @@ textarea {
   --scroll-base: #ddd
 }
 
-.galeria{
-   margin-top: -770px;
-}
-
-/*====================Mobile====================*/
-
-@media screen and (max-width:1024px) {
- .galeria{
-   margin-top: -400px ;
- }
-}
