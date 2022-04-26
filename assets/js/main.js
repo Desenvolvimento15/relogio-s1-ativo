@@ -74,6 +74,6 @@ $(function (){
         arrows: false,
         infinite: true,
         centerMode: true,
-        centerPadding: '70px',
+        centerPadding: '100px',
       });
 })

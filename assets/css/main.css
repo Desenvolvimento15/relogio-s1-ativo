@@ -1,253 +1,67 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700&display=swap);
 
-.overview-con {
-  min-width: 4.789063rem;
-  width: 100%
-}
-
-.overview-con .f12 {
-  font-size: .046875rem
-}
-
-.overview-con .f14 {
-  font-size: .054688rem
-}
-
-.overview-con .f16 {
-  font-size: .0625rem
-}
-
-.overview-con .f18 {
-  font-size: .070313rem
-}
-
-.overview-con .f20 {
-  font-size: .078125rem
-}
-
-.overview-con .f22 {
-  font-size: .085938rem
-}
-
-.overview-con .f24 {
-  font-size: .09375rem
-}
-
-.overview-con .f26 {
-  font-size: .101563rem
-}
-
-.overview-con .f28 {
-  font-size: .109375rem
-}
-
-.overview-con .f30 {
-  font-size: .117188rem
-}
-
-.overview-con .f32 {
-  font-size: .125rem
-}
-
-.overview-con .f34 {
-  font-size: .132813rem
-}
-
-.overview-con .f36 {
-  font-size: .140625rem
-}
-
-.overview-con .f38 {
-  font-size: .148438rem
-}
-
-.overview-con .f40 {
-  font-size: .15625rem
-}
-
-.overview-con .f42 {
-  font-size: .164063rem
-}
-
-.overview-con .f44 {
-  font-size: .171875rem
-}
-
-.overview-con .f46 {
-  font-size: .179688rem
-}
-
-.overview-con .f48 {
-  font-size: .1875rem
-}
-
-.overview-con .f50 {
-  font-size: .195313rem
-}
-
-.overview-con .f52 {
-  font-size: .203125rem
-}
-
-.overview-con .f54 {
-  font-size: .210938rem
-}
-
-.overview-con .f56 {
-  font-size: .21875rem
-}
-
-.overview-con .f58 {
-  font-size: .226563rem
-}
-
-.overview-con .f60 {
-  font-size: .234375rem
-}
-
-.overview-con .f62 {
-  font-size: .242188rem
-}
-
-.overview-con .f64 {
-  font-size: .25rem
-}
-
-.overview-con .f66 {
-  font-size: .257813rem
-}
-
-.overview-con .f68 {
-  font-size: .265625rem
-}
-
-.overview-con .f70 {
-  font-size: .273438rem
-}
-
-.overview-con .f72 {
-  font-size: .28125rem
-}
-
-.overview-con .f74 {
-  font-size: .289063rem
-}
-
-.overview-con .f76 {
-  font-size: .296875rem
-}
-
-.overview-con .f78 {
-  font-size: .304688rem
-}
-
-.overview-con .f80 {
-  font-size: .3125rem
-}
-
-.overview-con .f82 {
-  font-size: .320313rem
-}
-
-.overview-con .f86 {
-  font-size: .335938rem
-}
-
-.overview-con .f88 {
-  font-size: .34375rem
-}
-
-.overview-con .f90 {
-  font-size: .351563rem
-}
-
-.overview-con .f92 {
-  font-size: .359375rem
-}
-
-.overview-con .f98 {
-  font-size: .382813rem
-}
-
-.overview-con .f100 {
-  font-size: .390625rem
-}
-
-.overview-con .f106 {
-  font-size: .414063rem
-}
-
-.overview-con .f108 {
-  font-size: .421875rem
-}
-
-.overview-con .f110 {
-  font-size: .429688rem
-}
-
-.overview-con .f114 {
-  font-size: .445313rem
-}
-
-.overview-con .f116 {
-  font-size: .453125rem
-}
-
-.overview-con .f120 {
-  font-size: .46875rem
-}
-
-.overview-con .f128 {
-  font-size: .5rem
-}
-
-.overview-con .f130 {
-  font-size: .507813rem
-}
-
-.overview-con .f138 {
-  font-size: .539063rem
-}
-
-.overview-con .f140 {
-  font-size: .546875rem
-}
-
-.overview-con .f142 {
-  font-size: .554688rem
-}
-
-.overview-con .f144 {
-  font-size: .5625rem
-}
-
-.overview-con .f146 {
-  font-size: .570313rem
-}
-
-.overview-con .f148 {
-  font-size: .578125rem
-}
-
-.overview-con .f150 {
-  font-size: .585938rem
-}
-
-.overview-con .f156 {
-  font-size: .609375rem
-}
-
-.overview-con .f160 {
-  font-size: .625rem
-}
-
-.overview-con .f200 {
-  font-size: .78125rem
-}
-
-.overview-con .f248 {
-  font-size: .96875rem
-}
+.overview-con {min-width: 4.789063rem; width: 100%}
+.overview-con .f12 {font-size: .046875rem}
+.overview-con .f14 {font-size: .054688rem}
+.overview-con .f16 {font-size: .0625rem}
+.overview-con .f18 {font-size: .070313rem}
+.overview-con .f20 {font-size: .078125rem}
+.overview-con .f22 {font-size: .085938rem}
+.overview-con .f24 {font-size: .09375rem}
+.overview-con .f26 {font-size: .101563rem}
+.overview-con .f28 {font-size: .109375rem}
+.overview-con .f30 {font-size: .117188rem}
+.overview-con .f32 {font-size: .125rem}
+.overview-con .f34 {font-size: .132813rem}
+.overview-con .f36 {font-size: .140625rem}
+.overview-con .f38 {font-size: .148438rem}
+.overview-con .f40 {font-size: .15625rem}
+.overview-con .f42 {font-size: .164063rem}
+.overview-con .f44 {font-size: .171875rem}
+.overview-con .f46 {font-size: .179688rem}
+.overview-con .f48 {font-size: .1875rem}
+.overview-con .f50 {font-size: .195313rem}
+.overview-con .f52 {font-size: .203125rem}
+.overview-con .f54 {font-size: .210938rem}
+.overview-con .f56 {font-size: .21875rem}
+.overview-con .f58 {font-size: .226563rem}
+.overview-con .f60 {font-size: .234375rem}
+.overview-con .f62 {font-size: .242188rem}
+.overview-con .f64 {font-size: .25rem}
+.overview-con .f66 {font-size: .257813rem}
+.overview-con .f68 {font-size: .265625rem}
+.overview-con .f70 {font-size: .273438rem}
+.overview-con .f72 {font-size: .28125rem}
+.overview-con .f74 {font-size: .289063rem}
+.overview-con .f76 {font-size: .296875rem}
+.overview-con .f78 {font-size: .304688rem}
+.overview-con .f80 {font-size: .3125rem}
+.overview-con .f82 {font-size: .320313rem}
+.overview-con .f86 {font-size: .335938rem}
+.overview-con .f88 {font-size: .34375rem}
+.overview-con .f90 {font-size: .351563rem}
+.overview-con .f92 {font-size: .359375rem}
+.overview-con .f98 {font-size: .382813rem}
+.overview-con .f100 {font-size: .390625rem}
+.overview-con .f106 {font-size: .414063rem}
+.overview-con .f108 {font-size: .421875rem}
+.overview-con .f110 {font-size: .429688rem}
+.overview-con .f114 {font-size: .445313rem}
+.overview-con .f116 {font-size: .453125rem}
+.overview-con .f120 {font-size: .46875rem}
+.overview-con .f128 {font-size: .5rem}
+.overview-con .f130 {font-size: .507813rem}
+.overview-con .f138 {font-size: .539063rem}
+.overview-con .f140 {font-size: .546875rem}
+.overview-con .f142 {font-size: .554688rem}
+.overview-con .f144 {font-size: .5625rem}
+.overview-con .f146 {font-size: .570313rem}
+.overview-con .f148 {font-size: .578125rem}
+.overview-con .f150 {font-size: .585938rem}
+.overview-con .f156 {font-size: .609375rem}
+.overview-con .f160 {font-size: .625rem}
+.overview-con .f200 {font-size: .78125rem}
+.overview-con .f248 {font-size: .96875rem}
 
 .overview-con .xm-price,
 .overview-con .xm-text,
@@ -12116,22 +11930,8 @@ input[type=number] {
   border-top: none !important
 }
 
-html {
-  font-family: Lato, ProximaNova, sans-serif;
-  margin: 0 auto
-}
 
-body,
-html {
-  height: 100%
-}
 
-body {
-  font-family: ProximaNova, Arial, sans-serif
-}
-
-body,
-,
 li,
 p,
 ul {
@@ -13963,3 +13763,9 @@ textarea {
   --notice-error-1: #f14d4d;
   --scroll-base: #ddd
 }
+
+.galeria{
+  margin-top: -710px;
+}
+
+/*===========================Mobile====================*/
