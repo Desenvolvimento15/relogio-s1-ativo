@@ -319,7 +319,7 @@
 
 .overview-con .ksp_wrap .ksp_05 .f32 {
   margin-left: .085938rem;
-  margin-top: .183594rem
+  margin-top: 0.1rem
 }
 
 .overview-con .ksp_wrap .ksp_05 .f24 {
@@ -349,9 +349,10 @@
 }
 
 .overview-con .ksp_wrap .ksp_07 .f32 {
-  margin-right: .085938rem;
-  margin-top: .125rem;
-  text-align: left
+  margin-left: 0.0938rem;
+  margin-top: 0.125rem;
+  text-align: right;
+  margin-right: 0.5em;
 }
 
 .overview-con .ksp_wrap .ksp_08 {
@@ -370,12 +371,13 @@
   height: 1.132813rem;
   left: 3.332031rem;
   top: 5.570313rem;
-  width: 2.359375rem
+  width: 4.8rem
 }
 
 .overview-con .ksp_wrap .ksp_09 .f32 {
   margin-bottom: .054688rem;
-  margin-top: .589844rem
+  margin-top: .589844rem;
+  margin-left: 0.3rem;
 }
 
 .overview-con .ksp_wrap .ksp_10 {
